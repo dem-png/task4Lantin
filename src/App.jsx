@@ -3,6 +3,8 @@ import Home from "./components/Home.jsx"
 import About from "./components/About.jsx"
 import Projects from "./components/Projects.jsx"
 import Contact from "./components/Contact.jsx"
+import Hero from "./components/Hero.jsx"
+
 
 function App() {
   return <div className="min-h-screen bg-slate-950 text-white overflow-hidden">
