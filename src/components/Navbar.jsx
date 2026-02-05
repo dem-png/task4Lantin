@@ -15,16 +15,12 @@ export default function Navbar() {
                     </div>
                     <span className="text-lg sm:text-xl md:text-2xl font-medium">
                     <span className="text-blue-300">My</span>
-                    <span className="text-white">Website</span>
+                    <span className="text-white">Portfolio</span>
                     </span>
                 </div>
 
                 {/*Nav Links*/}
                 <div className="hidden md:flex items-center space-x-6 lg:space-x-8">
-                    <a href="#home"
-                    className="text-gray-300 hover:text-white text-sm lg:text-base">
-                        Home
-                    </a>
                     <a href="#about"
                     className="text-gray-300 hover:text-white text-sm lg:text-base">
                         About Me
